@@ -1,6 +1,13 @@
 # travel
 
+## Project Description
+
+~~~json
+vue travel
+~~~
+
 ## Project setup
+
 ```
 npm install
 ```
