@@ -3,7 +3,7 @@
 ## Project Description
 
 ~~~json
-vue travel project
+vue travel
 ~~~
 
 ## Project setup
